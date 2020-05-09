@@ -1,0 +1,39 @@
+/* About */
+
+.about-container {
+    max-width: 1140px;
+    margin: 130px auto;
+    padding: 15px 0;
+    display: flex;
+    align-items: flex-start;
+    flex-flow: column wrap;
+}
+
+.about-content {
+    display: flex;
+    align-items: flex-start;
+    flex-wrap: wrap;
+    margin-bottom: 56px;
+}
+
+.about-text {
+    flex: 2 1 260px;
+    margin-left: 100px;
+    margin-top: 30px;
+}
+
+.about-text p {
+    font-size: 1.31em;
+    font-weight: 500;
+    line-height: 34px;
+    color: #443D4C;
+    padding-bottom: 34px;
+}
+
+.about-text a {
+    font-size: 1.12em;
+    font-weight: 400;
+    color: #F06517;
+    align-items: center;
+    padding-bottom: 24px;
+}
